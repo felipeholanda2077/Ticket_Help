@@ -1,9 +1,12 @@
 # Ticket_Help
 Um App de aba de chamados e tickets para empresas de suporte ao cliente
 
+<br>
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESEMVOLVIMENTO&color=yellow&style=for-the-badge"/>
 </p>
+
 
 <h1>Capturas de tela</h1>
 
@@ -15,3 +18,21 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
     <td><img width="300" src="./src/img/04.png" ></td>
   </tr>
 </table>
+
+### Ferramentas
+
+  - [**VS CODE**](https://code.visualstudio.com/)
+  - [**EXPO**](https://getbootstrap.com/)
+
+<br>
+
+<h1>Siga-me</h1>
+  <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
+  
+<br>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/">
+      <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
+   </a>
+</p>
