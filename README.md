@@ -7,6 +7,14 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESEMVOLVIMENTO&color=yellow&style=for-the-badge"/>
 </p>
 
+## Instalação
+1. Clone esse repositório ou faça o download dos arquivos
+2. Abra o projeto no Visual Studio Code
+3. Abra o Terminal e execute o comando `expo init` para instalar os módulos do Node.
+4. Use o comando `react-native link` para que todos os assets sejam linkados ao projeto
+5. Execute o projeto com `expo start`
+6. Enjoy!
+
 
 <h1>Capturas de tela</h1>
 
