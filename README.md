@@ -9,9 +9,9 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 
 <table>
  <tr>
-    <td><img width="300" src="./Screenshots/01.png" ></td>
-    <td><img width="300" src="./Screenshots/02.png" ></td>
-    <td><img width="300" src="./Screenshots/03.png" ></td>
-    <td><img width="300" src="./Screenshots/04.png" ></td>
+    <td><img width="300" src="./src/img/01.PNG" ></td>
+    <td><img width="300" src="./src/img/02.png" ></td>
+    <td><img width="300" src="./src/img/03.PNG" ></td>
+    <td><img width="300" src="./src/img/04.png" ></td>
   </tr>
 </table>
