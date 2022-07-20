@@ -15,6 +15,7 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 5. Execute o projeto com `expo start`
 6. Enjoy!
 
+<br>
 
 <h1>Capturas de tela</h1>
 
