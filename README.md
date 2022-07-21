@@ -12,7 +12,7 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 2. Abra o projeto no Visual Studio Code
 3. Abra o Terminal e execute o comando `expo init` para instalar os módulos do Node.
 4. Use o comando `react-native link` para que todos os assets sejam linkados ao projeto
-5. Execute o projeto com `expo start`
+5. Execute o projeto com `expo start` ou `expo run:android` se desejar que o firebase funcione dentro da aplicação.
 6. Enjoy!
 
 <br>
