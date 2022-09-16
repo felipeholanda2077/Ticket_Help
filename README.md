@@ -7,8 +7,6 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
 </p>
 
-<br>
-
 ## Instalação
 1. Clone esse repositório ou faça o download dos arquivos
 2. Abra o projeto no Visual Studio Code
