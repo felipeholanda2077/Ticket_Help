@@ -17,6 +17,7 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 
 <br>
 
+
 <h1>Capturas de tela</h1>
 
 <table>
@@ -35,7 +36,6 @@ Um App de aba de chamados e tickets para empresas de suporte ao cliente
 
 
 <br>
-
 
 <h1>Siga-me</h1>
   <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
